@@ -6,7 +6,7 @@ export default async function Home() {
   const data: Feed = await fetchFeedApi();
 
   return (
-    <div className="container">
+    <div className="container mt-5">
       <h2 className="text-center">Welcome User!!</h2>
       <div className="row">
         {data?.feed?.entry.map((entry, index) => (

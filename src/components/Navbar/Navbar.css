@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #474747;
+
+    .navbar-brand {
+        color: #f0f0f0;
+    }
+
+    .bi-cart-check-fill {
+        color: #f0f0f0;
+        font-size: 24px;
+    }
+}
