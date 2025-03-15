@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export default function CheckoutPage() {
   const cart = useAppSelector((state: RootState) => state.checkout);
-  const cartItems = cart.items;
+  const cartItems = cart?.items;
 
   return (
     <div className="container mt-5">

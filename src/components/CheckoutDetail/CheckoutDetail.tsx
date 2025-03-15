@@ -7,7 +7,7 @@ export type CheckoutDetailProps = {
 export const CheckoutDetail = ({
   subtext,
   text,
-  className,
+  className='',
 }: CheckoutDetailProps) => {
   return (
     <div className="row">
