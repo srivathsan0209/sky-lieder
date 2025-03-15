@@ -1,6 +1,14 @@
+import { clearCart } from "@/lib/features/checkout/checkoutSlice";
+import { useAppDispatch } from "@/lib/hooks";
+import { AppDispatch } from "@/lib/store";
 import { CheckoutDetail } from "../CheckoutDetail/CheckoutDetail";
 
 export const CheckoutSummaryCard = ({ total }: { total: number }) => {
+  const dispatch: AppDispatch = useAppDispatch();
+
+  const handleClear = () => {
+    dispatch(clearCart());
+  };
   return (
     <div className="card">
       <div className="card-body">
@@ -22,7 +30,9 @@ export const CheckoutSummaryCard = ({ total }: { total: number }) => {
         </div>
         <hr />
         <div className="text-center">
-          <button className="btn btn-primary">Checkout Items</button>
+          <button className="btn btn-primary" onClick={handleClear}>
+            Checkout Items
+          </button>
         </div>
       </div>
     </div>
