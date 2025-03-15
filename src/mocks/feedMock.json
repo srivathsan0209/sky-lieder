@@ -1,0 +1,904 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "im:name": {
+                    "label": "Heaven On My Mind"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/f9/0b/9df90b0b-1ff6-3af9-1568-3767d5352e30/24UM1IM15831.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/f9/0b/9df90b0b-1ff6-3af9-1568-3767d5352e30/24UM1IM15831.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/f9/0b/9df90b0b-1ff6-3af9-1568-3767d5352e30/24UM1IM15831.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "12"
+                },
+                "im:price": {
+                    "label": "$9.99",
+                    "attributes": {
+                        "amount": "9.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "ForeFront Records; ℗ 2024 F.L. Inc., under exclusive license to Capitol CMG, Inc."
+                },
+                "title": {
+                    "label": "Heaven On My Mind - TobyMac"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/heaven-on-my-mind/1785904520?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/heaven-on-my-mind/1785904520?uo=2",
+                    "attributes": {
+                        "im:id": "1785904520"
+                    }
+                },
+                "im:artist": {
+                    "label": "TobyMac",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/tobymac/635550?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "22",
+                        "term": "Christian & Gospel",
+                        "scheme": "https://music.apple.com/us/genre/music-christian/id22?uo=2",
+                        "label": "Christian"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2025-03-07T00:00:00-07:00",
+                    "attributes": {
+                        "label": "March 7, 2025"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Greatest"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/20/bb/6320bbfe-855c-37c1-1dfa-c67aaefeec52/5032698666201.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/20/bb/6320bbfe-855c-37c1-1dfa-c67aaefeec52/5032698666201.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/20/bb/6320bbfe-855c-37c1-1dfa-c67aaefeec52/5032698666201.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "12"
+                },
+                "im:price": {
+                    "label": "$4.99",
+                    "attributes": {
+                        "amount": "4.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2012 BMG Rights Management (US) LLC"
+                },
+                "title": {
+                    "label": "Greatest - Jim Croce"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/greatest/1674583974?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/greatest/1674583974?uo=2",
+                    "attributes": {
+                        "im:id": "1674583974"
+                    }
+                },
+                "im:artist": {
+                    "label": "Jim Croce",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/jim-croce/19523393?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "21",
+                        "term": "Rock",
+                        "scheme": "https://music.apple.com/us/genre/music-rock/id21?uo=2",
+                        "label": "Rock"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "1995-09-18T17:00:00-07:00",
+                    "attributes": {
+                        "label": "September 18, 1995"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Look Up"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/7d/94/3d7d9453-fd25-d2b0-c9a4-dff539ae2730/24UMGIM96081.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/7d/94/3d7d9453-fd25-d2b0-c9a4-dff539ae2730/24UMGIM96081.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/7d/94/3d7d9453-fd25-d2b0-c9a4-dff539ae2730/24UMGIM96081.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "11"
+                },
+                "im:price": {
+                    "label": "$9.99",
+                    "attributes": {
+                        "amount": "9.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "A Lost Highway Records Release; ℗ 2025 Roccabella, Inc., under exclusive license to UMG Recordings, Inc."
+                },
+                "title": {
+                    "label": "Look Up - Ringo Starr"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/look-up/1773188611?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/look-up/1773188611?uo=2",
+                    "attributes": {
+                        "im:id": "1773188611"
+                    }
+                },
+                "im:artist": {
+                    "label": "Ringo Starr",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/ringo-starr/52017?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "6",
+                        "term": "Country",
+                        "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+                        "label": "Country"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2025-01-10T00:00:00-07:00",
+                    "attributes": {
+                        "label": "January 10, 2025"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Wicked: The Soundtrack"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c3/80/3bc38021-d755-d689-43d2-775c6071b226/24UM1IM07582.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c3/80/3bc38021-d755-d689-43d2-775c6071b226/24UM1IM07582.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c3/80/3bc38021-d755-d689-43d2-775c6071b226/24UM1IM07582.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "13"
+                },
+                "im:price": {
+                    "label": "$9.99",
+                    "attributes": {
+                        "amount": "9.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "This Compilation ℗ 2024 Universal Studios and Republic Records, a division of UMG Recordings, Inc. and Verve Label Group, a division of UMG Recordings, Inc"
+                },
+                "title": {
+                    "label": "Wicked: The Soundtrack - Wicked Movie Cast, Cynthia Erivo & Ariana Grande"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/wicked-the-soundtrack/1772364192?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/wicked-the-soundtrack/1772364192?uo=2",
+                    "attributes": {
+                        "im:id": "1772364192"
+                    }
+                },
+                "im:artist": {
+                    "label": "Wicked Movie Cast, Cynthia Erivo & Ariana Grande",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/wicked-movie-cast/1772364470?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "16",
+                        "term": "Soundtrack",
+                        "scheme": "https://music.apple.com/us/genre/music-soundtrack/id16?uo=2",
+                        "label": "Soundtrack"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2024-11-22T00:00:00-07:00",
+                    "attributes": {
+                        "label": "November 22, 2024"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Tsunami Sea"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/db/64/5fdb64da-f962-598e-b151-8c0cacc00943/4099964139297.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/db/64/5fdb64da-f962-598e-b151-8c0cacc00943/4099964139297.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/db/64/5fdb64da-f962-598e-b151-8c0cacc00943/4099964139297.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "11"
+                },
+                "im:price": {
+                    "label": "$9.99",
+                    "attributes": {
+                        "amount": "9.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2025 Pale Chord Music, LLC under exclusive license to Rise Records, Inc."
+                },
+                "title": {
+                    "label": "Tsunami Sea - Spiritbox"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/tsunami-sea/1779147456?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/tsunami-sea/1779147456?uo=2",
+                    "attributes": {
+                        "im:id": "1779147456"
+                    }
+                },
+                "im:artist": {
+                    "label": "Spiritbox",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/spiritbox/1293047384?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "1153",
+                        "term": "Heavy Metal",
+                        "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+                        "label": "Metal"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2025-03-07T00:00:00-07:00",
+                    "attributes": {
+                        "label": "March 7, 2025"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Cold Beer & Country Music"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/00/8f/05008f0a-c5ab-668c-2aae-6934f26d1d6d/8721056563135.png/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/00/8f/05008f0a-c5ab-668c-2aae-6934f26d1d6d/8721056563135.png/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/00/8f/05008f0a-c5ab-668c-2aae-6934f26d1d6d/8721056563135.png/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "12"
+                },
+                "im:price": {
+                    "label": "$11.99",
+                    "attributes": {
+                        "amount": "11.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2024 Leo33"
+                },
+                "title": {
+                    "label": "Cold Beer & Country Music - Zach Top"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/cold-beer-country-music/1728076787?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/cold-beer-country-music/1728076787?uo=2",
+                    "attributes": {
+                        "im:id": "1728076787"
+                    }
+                },
+                "im:artist": {
+                    "label": "Zach Top",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/zach-top/1350125124?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "1042",
+                        "term": "Traditional Country",
+                        "scheme": "https://music.apple.com/us/genre/music-country-traditional-country/id1042?uo=2",
+                        "label": "Traditional Country"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2024-04-05T00:00:00-07:00",
+                    "attributes": {
+                        "label": "April 5, 2024"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Accidentally On Purpose - The 2nd Mini Album - EP"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/05/a5/1a05a5f2-ae9c-f2a2-5641-784ebda83bc3/888735951510.png/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/05/a5/1a05a5f2-ae9c-f2a2-5641-784ebda83bc3/888735951510.png/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/05/a5/1a05a5f2-ae9c-f2a2-5641-784ebda83bc3/888735951510.png/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "7"
+                },
+                "im:price": {
+                    "label": "$4.99",
+                    "attributes": {
+                        "amount": "4.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2025 SM Entertainment"
+                },
+                "title": {
+                    "label": "Accidentally On Purpose - The 2nd Mini Album - EP - SEULGI"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/accidentally-on-purpose-the-2nd-mini-album-ep/1799903997?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/accidentally-on-purpose-the-2nd-mini-album-ep/1799903997?uo=2",
+                    "attributes": {
+                        "im:id": "1799903997"
+                    }
+                },
+                "im:artist": {
+                    "label": "SEULGI",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/seulgi/1076253686?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "51",
+                        "term": "K-Pop",
+                        "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+                        "label": "K-Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2025-03-10T00:00:00-07:00",
+                    "attributes": {
+                        "label": "March 10, 2025"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Made by These Moments"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/17/78/021778f3-9c1f-e211-30b6-854109b992ae/196871996808.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/17/78/021778f3-9c1f-e211-30b6-854109b992ae/196871996808.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/17/78/021778f3-9c1f-e211-30b6-854109b992ae/196871996808.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "11"
+                },
+                "im:price": {
+                    "label": "$9.99",
+                    "attributes": {
+                        "amount": "9.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2024 RCA Records, under exclusive license from HBYCO Records"
+                },
+                "title": {
+                    "label": "Made by These Moments - The Red Clay Strays"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/made-by-these-moments/1746991953?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/made-by-these-moments/1746991953?uo=2",
+                    "attributes": {
+                        "im:id": "1746991953"
+                    }
+                },
+                "im:artist": {
+                    "label": "The Red Clay Strays",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/the-red-clay-strays/1483812664?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "6",
+                        "term": "Country",
+                        "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+                        "label": "Country"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2024-07-26T00:00:00-07:00",
+                    "attributes": {
+                        "label": "July 26, 2024"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Greatest Hits"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/61/dd/7861dd44-f796-08ea-c8ff-7f8a12a86db1/15UMGIM69649.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/61/dd/7861dd44-f796-08ea-c8ff-7f8a12a86db1/15UMGIM69649.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/61/dd/7861dd44-f796-08ea-c8ff-7f8a12a86db1/15UMGIM69649.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "18"
+                },
+                "im:price": {
+                    "label": "$7.99",
+                    "attributes": {
+                        "amount": "7.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "This Compilation ℗ 2014 Geffen Records"
+                },
+                "title": {
+                    "label": "Greatest Hits - Tom Petty & The Heartbreakers"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/greatest-hits/1469579555?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/greatest-hits/1469579555?uo=2",
+                    "attributes": {
+                        "im:id": "1469579555"
+                    }
+                },
+                "im:artist": {
+                    "label": "Tom Petty & The Heartbreakers",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/tom-petty-the-heartbreakers/161527?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "21",
+                        "term": "Rock",
+                        "scheme": "https://music.apple.com/us/genre/music-rock/id21?uo=2",
+                        "label": "Rock"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "1993-11-16T00:00:00-07:00",
+                    "attributes": {
+                        "label": "November 16, 1993"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "AIR - EP"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/0a/3d/9a0a3dda-3b86-d849-8066-3b363372df74/8809928953571_Cover.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/0a/3d/9a0a3dda-3b86-d849-8066-3b363372df74/8809928953571_Cover.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/0a/3d/9a0a3dda-3b86-d849-8066-3b363372df74/8809928953571_Cover.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:itemCount": {
+                    "label": "4"
+                },
+                "im:price": {
+                    "label": "$4.99",
+                    "attributes": {
+                        "amount": "4.99",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "Album"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2025 JYP Entertainment"
+                },
+                "title": {
+                    "label": "AIR - EP - YEJI"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://music.apple.com/us/album/air-ep/1798736126?uo=2"
+                    }
+                },
+                "id": {
+                    "label": "https://music.apple.com/us/album/air-ep/1798736126?uo=2",
+                    "attributes": {
+                        "im:id": "1798736126"
+                    }
+                },
+                "im:artist": {
+                    "label": "YEJI",
+                    "attributes": {
+                        "href": "https://music.apple.com/us/artist/yeji/1782280298?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "51",
+                        "term": "K-Pop",
+                        "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+                        "label": "K-Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2025-03-10T00:00:00-07:00",
+                    "attributes": {
+                        "label": "March 10, 2025"
+                    }
+                }
+            }
+        ],
+        "updated": {
+            "label": "2025-03-12T10:22:08-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Top Albums"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=1&popId=11"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/topalbums/limit=10/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/topalbums/limit=10/json"
+        }
+    }
+}

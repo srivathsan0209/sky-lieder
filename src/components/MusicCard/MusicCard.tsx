@@ -15,7 +15,7 @@ export const MusicCard = ({
   price,
   index,
 }: MusicCardProps) => {
-  const newImageUrl = imageurl.replace("55x55bb", "250x250bb");
+  const newImageUrl = imageurl?.replace("55x55bb", "250x250bb");
   return (
     <div className="card">
       <Image

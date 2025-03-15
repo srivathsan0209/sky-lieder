@@ -9,10 +9,26 @@ export type Feed = {
       };
     };
     entry: Entry[];
+    updated: {
+      label: string;
+    };
+    rights: {
+      label: string;
+    };
+    title: {
+      label: string;
+    };
+    icon: {
+      label: string;
+    };
+    link: LinkAttributes[];
+    id: {
+      label: string;
+    };
   };
 };
 
-type Entry = {
+export type Entry = {
   "im:name": {
     label: string;
   };
@@ -49,16 +65,18 @@ type Entry = {
 };
 
 type LinkAttributes = {
-  rel: "alternate";
-  type: "text/html";
-  href: string;
+  attributes: {
+    rel: string;
+    type: string;
+    href: string;
+  };
 };
 
 type ImageAttributes = {
   label: string;
   attributes: {
     height: string;
-  }[];
+  };
 };
 
 type IdAttributes = {
