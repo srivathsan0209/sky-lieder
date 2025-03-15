@@ -19,6 +19,7 @@ export default async function Home() {
               title={entry?.["im:name"]?.label}
               text={entry?.["im:artist"]?.label}
               price={entry?.["im:price"]?.label}
+              entry={entry}
               index={index}
             />
           </div>

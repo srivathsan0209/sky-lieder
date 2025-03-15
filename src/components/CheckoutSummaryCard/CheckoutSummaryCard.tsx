@@ -9,7 +9,7 @@ export const CheckoutSummaryCard = ({ total }: { total: number }) => {
         <div className="row">
           <p className="col-6 col-lg-6 col-md-12 text-muted">Subtotal</p>
           <p className="col-6 col-lg-6 col-md-12 text-lg-end text-md-start text-end">
-            <strong>${total}</strong>
+            <strong>${total?.toFixed(2)}</strong>
           </p>
         </div>
         <div className="row">
@@ -22,7 +22,7 @@ export const CheckoutSummaryCard = ({ total }: { total: number }) => {
         <div className="row">
           <p className="col-6 col-lg-6 col-md-12 text-muted fs-3">Total</p>
           <p className="col-6 col-lg-6 col-md-12 text-lg-end text-md-start text-end fs-4">
-            <strong>${total + 1.99}</strong>
+            <strong>${(total + 1.99)?.toFixed(2)}</strong>
           </p>
         </div>
         <hr />

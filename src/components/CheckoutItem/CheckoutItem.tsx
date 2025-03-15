@@ -1,3 +1,6 @@
+import { removeItem } from "@/lib/features/checkout/checkoutSlice";
+import { useAppDispatch } from "@/lib/hooks";
+import { AppDispatch } from "@/lib/store";
 import Image from "next/image";
 
 export type CheckoutItemProps = {
@@ -6,6 +9,7 @@ export type CheckoutItemProps = {
   artist: string;
   rights: string;
   price: string;
+  id: string;
 };
 
 export const CheckoutItem = ({
@@ -14,8 +18,16 @@ export const CheckoutItem = ({
   artist,
   rights,
   price,
+  id,
 }: CheckoutItemProps) => {
   const newImageUrl = imageurl?.replace("55x55bb", "150x150bb");
+
+  const dispatch: AppDispatch = useAppDispatch();
+
+  const handleClick = () => {
+    dispatch(removeItem(id));
+  };
+
   return (
     <>
       <div className="row mt-4">
@@ -32,7 +44,7 @@ export const CheckoutItem = ({
           <h4>{title}</h4>
           <p className="text-muted">{artist}</p>
           <p className="text-muted">{rights}</p>
-          <button className="btn btn-outline-danger">
+          <button className="btn btn-outline-danger" onClick={handleClick}>
             <i className="bi bi-trash"></i> Remove
           </button>
         </div>
