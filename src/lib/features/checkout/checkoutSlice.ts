@@ -19,9 +19,15 @@ const checkoutSlice = createSlice({
   reducers: {
     addItem: (state, action: PayloadAction<Entry>) => {
       const newItem = action.payload;
-      state.items.push(newItem);
-      state.totalQuantity += 1;
-      state.totalPrice += parseFloat(newItem["im:price"]?.attributes?.amount);
+      const itemIndex = state.items.findIndex(
+        (item) =>
+          item.id.attributes["im:id"] === newItem?.id.attributes["im:id"]
+      );
+      if (itemIndex === -1) {
+        state.items.push(newItem);
+        state.totalQuantity += 1;
+        state.totalPrice += parseFloat(newItem["im:price"]?.attributes?.amount);
+      }
     },
     removeItem: (state, action: PayloadAction<string>) => {
       const idToRemove = action.payload;
